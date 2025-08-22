@@ -1,4 +1,4 @@
-//this is the code you want to import on the arduino.It was made for an arduino nano,but you can use anyother arduino as long as you change/check the pins.
+//this is the code you want to import on the arduino. It was made for an arduino nano, but you can use anyother arduino as long as you change/check the pins.
 
 
 
