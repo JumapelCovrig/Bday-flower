@@ -1,3 +1,9 @@
+//this is the code you want to import on the arduino.It was made for an arduino nano,but you can use anyother arduino as long as you change/check the pins.
+
+
+
+
+
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #define NOTE_B0  31
