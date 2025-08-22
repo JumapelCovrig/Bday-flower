@@ -1,0 +1,13 @@
+Materials:
+-arduino nano
+-9V battery
+-jump wires
+-small breadboard
+-64x128 OLED display with 4 pins
+-2 pins buzzer
+-button
+-switch
+Circuit: https://wokwi.com/projects/439275652241427457
+Printable flower: https://www.printables.com/model/1002960-springy-flower-fidget
+You should make a hole in the pot where you want to put the display, and a hole for the switch.The bottom of the flower's spring has to be able to touch the button when you press the flower,so improvise something.I use 2 coins that when touch,
+complete the circuit.You can adjust the circuit so it works for you.
